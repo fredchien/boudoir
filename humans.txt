@@ -1,0 +1,21 @@
+/* TEAM */
+	Front-End: Frederic Chien
+	Contact: fred_chien [arroba] .yahoo.com.br
+	From: Curitiba, Parana, Brasil
+
+	Back-End: Frederic Chien
+	Contact: fred_chien [arroba] .yahoo.com.br
+	From: Curitiba, Parana, Brasil
+	
+	Design: Frederic Chien
+	Contact: fred_chien [arroba] .yahoo.com.br
+	From: Curitiba, Parana, Brasil
+
+                            
+/* SITE */
+                          
+Last update: YYYY/MM/DD 
+Standards: HTML5, CSS3, PHP
+Doctype: HTML5                        
+Components: Modernizr, jQuery, Bootstrap                 
+IDE: Eclipse, Notepad++, FileZilla, Photoshop
